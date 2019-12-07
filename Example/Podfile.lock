@@ -1,0 +1,16 @@
+PODS:
+  - LKBaseUIFrame (0.1.0)
+
+DEPENDENCIES:
+  - LKBaseUIFrame (from `../`)
+
+EXTERNAL SOURCES:
+  LKBaseUIFrame:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LKBaseUIFrame: 1a38def8bac333116b8b3909cfa39930d7376d0b
+
+PODFILE CHECKSUM: 086ed1774c31468b502a846b4dd4d13941fabf85
+
+COCOAPODS: 1.8.3

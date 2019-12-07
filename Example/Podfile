@@ -8,6 +8,6 @@ target 'LKBaseUIFrame_Example' do
   target 'LKBaseUIFrame_Tests' do
     inherit! :search_paths
 
-    
   end
+
 end
